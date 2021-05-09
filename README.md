@@ -22,3 +22,4 @@
 
 嗯？若有此网站有一些问题，那么联系Eric_XuBohan@163.com
 
+![图片显示发生错误](http://eric-xubohan.github.io/icon.jpg)
