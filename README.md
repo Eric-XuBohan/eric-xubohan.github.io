@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+？？？
 
-You can use the [editor on GitHub](https://github.com/Eric-XuBohan/eric-xubohan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这是一个性质不明的网站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+而我是一个刚刚玩完期中考试的初中生
 
-### Markdown
+受机房[某神犇](https://www.luogu.com.cn/user/361842)的影响，跑到这儿来了......
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这个网站的建立也一波三折
 
-```markdown
-Syntax highlighted code block
+2020年学了一点乱七八糟的东东就有过这个想法
 
-# Header 1
-## Header 2
-### Header 3
+然后缺乏启动资金(说白了就是没钱)
 
-- Bulleted
-- List
+2021年初那位神犇告诉我在[freenom](www.freenom.com)上可以捞到免费域名
 
-1. Numbered
-2. List
+然后我要那域名有何用？？(主要还是我太弱了，不知道它咋用)(现在我终于知道了)
 
-**Bold** and _Italic_ and `Code` text
+同年5月8日，也就是我写这一行字的今天，TA告诉我有一个东东，叫[github](www.github.com)，然后我就到这儿来了
 
-[Link](url) and ![Image](src)
-```
+还有这个网站的图标，是我用Windows自带的某画图软件制作的，~~略显~~极为粗糙，就像下图
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+嗯？若有此网站有一些问题，那么联系Eric_XuBohan@163.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eric-XuBohan/eric-xubohan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
