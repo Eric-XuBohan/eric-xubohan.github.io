@@ -18,8 +18,4 @@
 
 同年5月8日，也就是我写这一行字的今天，TA告诉我有一个东东，叫[github](www.github.com)，然后我就到这儿来了
 
-还有这个网站的图标，是我用Windows自带的某画图软件制作的，~~略显~~极为粗糙，就像下图
-
 嗯？若有此网站有一些问题，那么联系Eric_XuBohan@163.com
-
-![图片显示发生错误](http://eric-xubohan.github.io/icon.jpg)
