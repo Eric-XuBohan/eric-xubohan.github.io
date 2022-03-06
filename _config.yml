@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title: ex_Asbable
+brief-intro: 一个蒟蒻OIer
 baseurl: "https://eric-xubohan.github.io/" # the subpath of your site, e.g. /blog
 url: "https://eric-xubohan/github.io/" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username:
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 工业制咖啡 CO+2Fe==coffee
 
 # comments
 # two ways to comment, only choose one, and use your own short name
