@@ -8,8 +8,8 @@
 # Site settings
 title: ex_Asbable
 brief-intro: 一个蒟蒻OIer
-baseurl: "https://eric-xubohan.github.io/" # the subpath of your site, e.g. /blog
-url: "https://eric-xubohan/github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://eric-xubohan/github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
