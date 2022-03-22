@@ -6,18 +6,6 @@ tags: 洛谷
 author: ex_Asbable
 ---
 
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-
 * content
 {:toc}
 
@@ -25,11 +13,11 @@ author: ex_Asbable
 
 ### 题目描述
 
-给出 $n$ 以及 $n$ 个单词（仅包含小写字母）形成一个句子，现打乱这个句子，但是对于任意单词，在原句子和乱序句子中第 i 次 出现的位置不会相差超过1。
+给出 n 以及 n 个单词（仅包含小写字母）形成一个句子，现打乱这个句子，但是对于任意单词，在原句子和乱序句子中第 i 次 出现的位置不会相差超过1。
 
 求有多少个这样的乱序句子，对1000000007取模。
 
-$n\le100000$
+![](http://latex.codecogs.com/gif.latex?n\le100000)
 
 ### 解法
 
