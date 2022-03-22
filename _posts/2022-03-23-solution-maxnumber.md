@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "20220323校内考试 T1 maxnumber 题解"
+categories: 题解
+tags: 校内
+author: ex_Asbable
+---
+
+* content
+{:toc}
+
 ## 20220320校内考试 T1 最大数 题解
 
 ### 题目描述
