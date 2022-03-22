@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新闻测试"
+title:  "20220320校内考试 T2 string 题解"
 categories: 题解
 tags: 洛谷
 author: ex_Asbable
