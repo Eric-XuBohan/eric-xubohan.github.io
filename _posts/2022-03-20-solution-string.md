@@ -2,7 +2,7 @@
 layout: post
 title:  "20220320校内考试 T2 string 题解"
 categories: 题解
-tags: 洛谷
+tags: 校内
 author: ex_Asbable
 ---
 
